@@ -1,0 +1,17 @@
+{
+  "plugins": [
+    "prettier-plugin-svelte",
+    "prettier-plugin-organize-imports",
+    "prettier-plugin-tailwindcss"
+  ],
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "tabWidth": 2,
+  "semi": true,
+  "printWidth": 80,
+  "embeddedLanguageFormatting": "auto",
+  "arrowParens": "always",
+  "jsxSingleQuote": true,
+  "jsxBracketSameLine": false,
+  "useTabs": false
+}
